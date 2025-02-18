@@ -1,7 +1,7 @@
 "use client";
 export default function Home() {
     const doPayment = async () => {
-        const url = "http://localhost:3030/init";
+        const url = "http://localhost:3001/init";
         // const url = "http://localhost:3000/api/sslcommers/payment";
 
         try {
